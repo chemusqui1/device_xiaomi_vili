@@ -325,7 +325,7 @@
         <item>local:4630946545580055170</item> <!--item>displayId</item-->
         <item>1080</item> <!--item>sensorLocationX</item-->
         <item>915</item> <!--item>sensorLocationY</item-->
-        <item>200</item> <!--item>sensorRadius</item-->
+        <item>135</item> <!--item>sensorRadius</item-->
     </array>
 
     <!-- Vili uses different gamma curves for different refresh rates. It's hard for panel
